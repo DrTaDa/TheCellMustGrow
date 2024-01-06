@@ -1,7 +1,7 @@
 
 # The Cell Must Grow
 
-Gameplay video here: [Link text Here](https://youtu.be/qi27V064opM)
+Gameplay video here: [https://youtu.be/qi27V064opM](https://youtu.be/qi27V064opM)
 
 In The Cell Must Grow, you are in charge of managing a biological cell ! As a cell, your goal is to stay alive as long as possible and grow as much as possible.
 
