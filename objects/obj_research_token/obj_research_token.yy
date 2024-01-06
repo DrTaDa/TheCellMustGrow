@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_research_token",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "base_block",
+    "path": "folders/Objets/base_block.yy",
+  },
+  "parentObjectId": {
+    "name": "obj_dynamicParent",
+    "path": "objects/obj_dynamicParent/obj_dynamicParent.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.0,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.0,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.0,
+  "physicsObject": true,
+  "physicsRestitution": 1.0,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsShapePoints": [
+    {"x":24.0,"y":24.0,},
+    {"x":24.0,"y":24.0,},
+  ],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": true,
+  "spriteId": {
+    "name": "spr_research",
+    "path": "sprites/spr_research/spr_research.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}
