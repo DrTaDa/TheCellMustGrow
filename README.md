@@ -1,6 +1,17 @@
 
 # The Cell Must Grow
 
+<center>
+ <iframe width="560" 
+         height="315" 
+         src="[YOUTUBE_LINK](https://youtu.be/qi27V064opM)" 
+         title="Gameplay video" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
+ </iframe>
+</center>
+
 In The Cell Must Grow, you are in charge of managing a biological cell ! As a cell, your goal is to stay alive as long as possible and grow as much as possible.
 
 To do you so, you will need to absorb surrounding nutrients, produce more DNA tokens which can then be used to unlock new molecular mechanisms and grow by making your membrane bigger. But beware, the outside world is finite and as all living things die, you will have to fight the damages of time. Both the membrane of the cell and its content will decay
